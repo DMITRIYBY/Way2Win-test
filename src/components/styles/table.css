@@ -1,0 +1,8 @@
+.custom__td{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.custom__td > button{
+    width: 49%;
+}
